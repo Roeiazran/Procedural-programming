@@ -31,7 +31,7 @@ and then:
 
 > ./a.out
 
-To test the additional features code in copy the following code into the file:
+To test the additional features copy the following code into the file:
 
 ```
 int main() {
