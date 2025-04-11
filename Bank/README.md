@@ -18,7 +18,7 @@ The programm supports the following back operations:
 
 5. Transferring - excuting multiple transactions.
 
-6. View an account.
+7. View an account.
 
    Option to view the account owner details including the past transactions made on the account.
 
