@@ -1,4 +1,5 @@
-This programm is a 4 In a row game. Where the main Focuses is on working with 2d arrays.
+This programm is a 4 In a row game, Where the main Focuses is on working with 2d arrays.
+
 This game is a 2-player game where each player at is turn inserts a coin into a specific column and the first player with 4 consecutive coins in row col or diagonal wins the game.
 
 The programm provides additional feature such as:
