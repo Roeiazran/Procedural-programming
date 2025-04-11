@@ -1,10 +1,8 @@
 /**
- * @file ex_4.h
- * @brief Header file for ex_4.c
+ * @file 4InARow.h
+ * @brief Header file for 4InARow.c
  * @note Do not modify this file or submit it, we will use our own copy of it.
  */
-
-// Do not include <stdio.h> in ex_4.c, only include "ex_4.h"
 #include <stdio.h>
 
 
