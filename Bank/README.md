@@ -19,6 +19,7 @@ The programm supports the following back operations:
 5. Transferring - excuting multiple transactions.
 
    example: ```30-25:40, 20-60,100``` is a transfer of 40 from account 30 to 25 and 100 from account 20 to 60
+   with a special mechanism that assures that the transfers was made only if all of then are a valid transfers.
 
 7. View an account.
 
