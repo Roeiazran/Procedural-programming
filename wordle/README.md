@@ -1,4 +1,4 @@
-This programm is a worlde game.
+Worlde game.
 ---
 
 A Wordle game is a guessing game where normally a player gets 6 attempts on guessing
