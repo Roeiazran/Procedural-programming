@@ -1,16 +1,21 @@
 This programm is a worlde game.
+---
+
 A Wordle game is a guessing game where normally a player gets 6 attempts on guessing
 a word, and on any attempt that fails the user gets a clue about a specific letter and it's location.
+
+------
 
 This programm provides the following features:
 
 1. Play a standard wordle game.
 
 2. Update the game settings.
-    initially the player will play with a word length of 5 and 6 tries, but 
-    it can be changed, for now there is a suppot of a word length of 4 and as many tries as desired.
 
-3. View the scoreboard.
+    initially the player will play with a words of length 5 and allowed for 6 tries but 
+    it can be changed.
+
+4. View the scoreboard.
 
     for each player the game will keep track of the following:
     - number of games played.
