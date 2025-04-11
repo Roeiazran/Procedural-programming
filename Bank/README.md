@@ -20,7 +20,7 @@ The programm supports the following back operations:
 
 6. View an account.
 
-   Am option to view the account owner details including the past transactions made on the account.
+   Option to view the account owner details including the past transactions made on the account.
 
 The programm use's the concept of structures in C, linked list and memory allocations.
 
