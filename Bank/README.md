@@ -22,7 +22,7 @@ The programm supports the following back operations:
 
    Option to view the account owner details including the past transactions made on the account.
 
-The programm use's the concept of structures in C, linked list and memory allocations.
+The programm use's the concept of structures in C, linked list and memory allocations (the programm has zero leaks)
 
 Running demonstration:
 
