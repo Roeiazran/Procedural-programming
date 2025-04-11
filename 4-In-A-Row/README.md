@@ -3,11 +3,11 @@ This game is a 2-player game where each player at is turn inserts a coin into a 
 
 The programm provides additional feature such as:
 1. Validate a given board for a valid sequenct of plays:
-2. 
+
     A valid board is that resulted by some sequence of valid playes.
 
-3. Encode a board to a given string:
-   
+2. Encode a board to a given string:
+ 
     From a given board and a string the programm returns the board encoded into the string
 
 For example the string Encoded board: 'H /H /H /H /H /BACBBAD /'
