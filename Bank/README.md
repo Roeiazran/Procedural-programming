@@ -18,6 +18,8 @@ The programm supports the following back operations:
 
 5. Transferring - excuting multiple transactions.
 
+   i.e 30-25:40, 20-60,100 is a transfer of 40 from account 30 to 25 and 100 from account 20 to 60
+
 7. View an account.
 
    Option to view the account owner details including the past transactions made on the account.
