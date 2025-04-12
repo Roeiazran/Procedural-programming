@@ -51,7 +51,7 @@ And so on.
 
 #
 
-For demonstration we create the following diagram:
+For demonstration i created the following diagram:
 
 ![Diagram](relationTree.png)
 
