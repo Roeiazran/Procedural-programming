@@ -4,25 +4,25 @@ This programm illustrate's a bank, where the main focus is on memory allocations
 
 The programm supports the following features:
 
-1. Create new account
-    - Given an account number of an account who's not already exists in the bank the programm will create the account with a given         account's Holder name.
+1. Create new account.
+    * Given an account number of an account who's not already exists in the bank the programm will create the account with a given         account's Holder name.
 
-2. delete existing accoung.
+4. delete existing accoung.
 
     Given an account number of an existing account the programm will delete the account.
 
-3. updating existing account.
+5. updating existing account.
 
     Given an account number of an existing account the programm will update the account's holder name.
 
-4. withdraw and deposite form and to an account.
+6. withdraw and deposite form and to an account.
 
-5. Transferring - excuting multiple transactions.
+7. Transferring - excuting multiple transactions.
 
    example: ```30-25:40, 20-60,100``` is a transfer of 40 from account 30 to 25 and 100 from account 20 to 60;
    this option includes a special mechanism assures that the transfers was made only if all of them are a valid transfers.
 
-7. View an account.
+8. View an account.
 
    Option to view the account owner details including the past transactions made on the account.
 
