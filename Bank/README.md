@@ -5,7 +5,7 @@ This programm illustrate's a bank, where the main focus is on memory allocations
 The programm supports the following features:
 
 1. Create new account.
-    * Given an account number of an account who's not already exists in the bank the programm will create the account with a given         account's Holder name.
+    * Given an account number if it's not already exists in the bank the programm will create account for the given account's Holder name.
 
 4. delete existing accoung.
 
