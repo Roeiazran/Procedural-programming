@@ -2,11 +2,10 @@
 
 This programm illustrate's a bank, where the main focus is on memory allocations and leaks by working with **linked lists** and **structures**.
 
-The programm supports the following back operations:
+The programm supports the following features:
 
-1. create new account.
-
-    Given an account number of an account who's not already exists in the bank the programm will create the account with a given account's Holder name.
+1. Create new account
+    - Given an account number of an account who's not already exists in the bank the programm will create the account with a given         account's Holder name.
 
 2. delete existing accoung.
 
