@@ -1,17 +1,16 @@
+# 4 In A Row
+
 This programm is a 4 In a row game, Where the main focus is on working with 2d arrays.
 
-This game is a 2-player game where each player at is turn inserts a coin into a specific column and the first player with 4 consecutive coins in row col or diagonal wins the game.
+This game is a 2-player game where each player at is turn inserts a coin into a specific column in the board and the first player with 4 consecutive coins in row col or diagonal wins the game.
 
 The programm provides additional feature such as:
-1. Validate a given board for a valid sequenct of plays:
 
-    A valid board is that resulted by some sequence of valid playes.
+1. Validate a given board for a valid sequenct of plays: a valid board is that resulted by some sequence of valid playes.
 
-2. Encode a board to a given string:
- 
-    From a given board and a string the programm returns the board encoded into the string
+2. Encode a board to a given string: from a given board and a string the programm returns the board encoded into the string
 
-For example the string Encoded board: 'H /H /H /H /H /BACBBAD /'
+For example the string 'H /H /H /H /H /BACBBAD /' Encoded the following board:
 
 ~~~~~~~~~~~~~~~
 | | | | | | | |
@@ -22,14 +21,21 @@ For example the string Encoded board: 'H /H /H /H /H /BACBBAD /'
 |A|B|B|A| | | |
 ~~~~~~~~~~~~~~~
 
-3. Decode a string into the board. Its the reverse action of Decoding.
+Explanation: H - 7, B - 1, C - 2, and so we get 7 spaces in rows 1 - 5 and in row 6 we get 1 A 2 B's and another A and finally 3 spaces.
 
-To run the game simply run:
-> gcc 4InARow.c
+3. Decode a string into the board: the reverse action of encoding.
 
+-
+
+To run the game simply execute:
+```
+gcc 4InARow.c
+
+```
 and then:
-
-> ./a.out
+```
+./a.out
+```
 
 To test the additional features copy the following code into the file:
 
