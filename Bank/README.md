@@ -20,9 +20,9 @@ The programm supports the following features:
    This feature includes a special mechanism that assures that transfers made only if all of them are valid transfers.
 
 8. View an account.
-   * Option to view the account owner details including the past transactions made on the account.
+   * Prints the account owner details includes the past transactions made on the account.
 
-The programm use's the concept of structures in C, linked list and memory allocations (the programm has zero leaks)
+--- 
 
 Running demonstration:
 
