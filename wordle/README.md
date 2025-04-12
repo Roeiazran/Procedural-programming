@@ -4,32 +4,31 @@ Worlde game.
 A Wordle game is a guessing game where normally a player gets 6 attempts on guessing
 a word, and on any attempt that fails the user gets a clue about a specific letter and it's location.
 
-------
-
 This programm provides the following features:
 
 1. Play a standard wordle game.
 
 2. Update the game settings.
-
-    initially the player will play with a words of length 5 and allowed for 6 tries but 
+    * Initially the player will play with a words of length 5 and allowed for 6 tries but 
     it can be changed.
 
 4. View the scoreboard.
 
-    for each player the game will keep track of the following:
+   for each player the game will keep track of the following:
     - number of games played.
     - win rate
     - average tries.
 
-The clues provides by the game is guidanse line and it is as follows:
+The clues provides by the game are as follows:
 
-    "+" states that the letter exists in the word but in a diffrent spot
-    "-" states that the letter doesn't exists in the word.
-    on a currect guess of a letter the letter itself will show in the guidanse line.
+    * "+" states that the letter exists in the word but in a diffrent spot
+    * "-" states that the letter doesn't exists in the word.
+    * on a currect guess of a letter the letter itself will show in the guidanse line.
 
 for example given that the word is "hello" and the user's guess was oweth the guidanse line
 would look like +-+-+ since the latters o e h appears only in a different spot.
+
+-
 
 To run the programm don't forget to include the words.txt file which containg (for now) words of 4 and 5 letters long, and then run ```python3 wordle.py```
 
