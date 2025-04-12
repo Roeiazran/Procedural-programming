@@ -10,7 +10,7 @@ The programm provides additional feature such as:
 
 2. Encode a board to a given string: from a given board and a string the programm returns the board encoded into the string
 
-For example the string 'H /H /H /H /H /BACBBAD /' Encoded the following board:
+For example the string ```'H /H /H /H /H /BACBBAD /'``` Encoded the following board:
 
 ~~~~~~~~~~~~~~~
 | | | | | | | |
