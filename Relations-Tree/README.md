@@ -50,7 +50,7 @@ Deg 2: the person itself and its cousins who shares the same grandfather and gra
 Deg 3: the person itself and all of those who shares a great grandfather with him.  
 And so on.  
 
--
+--------
 
 For demonstrating we create the following diagram:
 
