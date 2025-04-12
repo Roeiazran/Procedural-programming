@@ -52,6 +52,8 @@ And so on.
 
 -
 
+For demonstrating we create the following diagram:
+
 ![Diagram](relationTree.png)
 
 To test the code with the relation tree such as in the diagram include the input.txt in the root directory and simply run:
