@@ -24,7 +24,9 @@ For example the string 'H /H /H /H /H /BACBBAD /' Encoded the following board:
 Explanation: H - 7, B - 1, C - 2, and so we get 7 spaces in rows 1 - 5 and in row 6 we get 1 A 2 B's and another A and finally 3 spaces.
 
 3. Decode a string into the board: the reverse action of encoding.
+
 -
+
 To run the game simply execute:
 ```
 gcc 4InARow.c
