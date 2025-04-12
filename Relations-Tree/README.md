@@ -48,9 +48,9 @@ Deg 0: the person itself.
 Deg 1: the person itself and its brothers and sisters.  
 Deg 2: the person itself and its cousins who shares the same grandfather and grandmother.  
 Deg 3: the person itself and all of those who shares a great grandfather with him.  
-And so on.  
+And so on. 
 
---------
+#
 
 For demonstrating we create the following diagram:
 
