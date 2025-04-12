@@ -1,6 +1,6 @@
 # Bank
 
-This programm illustrate's a bank, where the main focus is on memory allocations and leaks working with linked lists and structures.
+This programm illustrate's a bank, where the main focus is on memory allocations and leaks by working with ** linked lists ** and ** structures **.
 
 The programm supports the following back operations:
 
