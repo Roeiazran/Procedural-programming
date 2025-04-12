@@ -1,5 +1,5 @@
-Worlde game.
----
+# Worlde.
+
 
 A Wordle game is a guessing game where normally a player gets 6 attempts on guessing
 a word, and on any attempt that fails the user gets a clue about a specific letter and it's location.
