@@ -24,6 +24,8 @@ The programm supports the following features:
 
 Example:
 
+/relationTree.png
+
 ```
 King Charles (74) - Princess Diana (61)
     Prince William (41) - Catherine Middleton (42)
@@ -107,7 +109,7 @@ Yaara
 
 ```
 
-You can also executing you'r oun test by changing the input.txt file, for example to print Dan sub tree simply appent to the input file:
+You can also execute you'r oun test by changing the input.txt file, for example to print Dan sub tree simply appent to the input file:
 ```
 4
 Dan
