@@ -1,6 +1,6 @@
 # Relations Tree Manager.
 
-This programm manages a familty tree (see diagrem), whose main focuse is on **recursive programming** and **memory allocation and freeing, structures** and **pointers**.
+This programm manages a familty tree (see diagrem), whose main focuse is on **recursive programming**, **memory allocation and freeing, structures** and also **pointers**.
 
 The programm supports the following features:
 
