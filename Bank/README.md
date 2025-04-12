@@ -1,5 +1,4 @@
 # Bank
---- 
 
 This programm illustrate a bank, where the main focus in on memory allocations and leaks.
 
