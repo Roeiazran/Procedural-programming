@@ -43,7 +43,6 @@ King Charles (74) - Princess Diana (61)
 
     * Given a person name and the degree of closeness the all the reatives of that degree will be printed in the same way. 
 
-To be precise:
 Deg 0: the person itself.  
 Deg 1: the person itself and its brothers and sisters.  
 Deg 2: the person itself and its cousins who shares the same grandfather and grandmother.  
