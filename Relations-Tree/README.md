@@ -69,7 +69,7 @@ You can also project the output into a result.txt file by executing:
 ./a.out < input.txt > res.txt
 ```
 
-In this test we printing the family tree of Yaniv and Yuval and the relative of 2'nd degree of Eran on of 3'rd degree of Tamar:
+In this test we output the family tree of Yaniv and Yuval and the relative of 2'nd degree of Eran on of 3'rd degree of Tamar:
 
 ```
 Yaniv (67) - Yarden (64)
