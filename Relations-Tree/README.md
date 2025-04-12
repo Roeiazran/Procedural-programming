@@ -1,4 +1,4 @@
-# Family Tree Manager.
+# Relations Tree Manager.
 
 This programm manages a familty tree (see diagrem), whose main focuse is on **recursive programming** and **memory allocation and freeing, structures** and **pointers**.
 
