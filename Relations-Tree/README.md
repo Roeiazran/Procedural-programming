@@ -24,9 +24,6 @@ The programm supports the following features:
 
 Example:
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](relationTree.png)
-
-
 ```
 King Charles (74) - Princess Diana (61)
     Prince William (41) - Catherine Middleton (42)
@@ -54,6 +51,8 @@ Deg 3: the person itself and all of those who shares a great grandfather with hi
 And so on.  
 
 -
+
+![Diagram](relationTree.png)
 
 To test the code with the relation tree such as in the diagram include the input.txt in the root directory and simply run:
 
