@@ -32,7 +32,7 @@ would look like +-+-+ since the latters o e h appears only in a different spot.
 
 To run the programm don't forget to include the words.txt file which containg (for now) words of 4 and 5 letters long, and then run ```python3 wordle.py```
 
-A running example:
+Here's a running example:
 
 ```
 Choose an option:
