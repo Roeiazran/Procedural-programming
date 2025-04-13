@@ -25,6 +25,8 @@ Explanation: H - 7, B - 1, C - 2, and so we get 7 spaces in rows 1 - 5 and in ro
 
 3. Decode a string into the board: the reverse action of encoding.
 
+# 
+
 To run the game simply execute:
 
 ```
