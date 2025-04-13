@@ -28,7 +28,7 @@ The clues provides by the game are as follows:
 for example given that the word is "hello" and the user's guess was oweth the guidanse line
 would look like +-+-+ since the latters o e h appears only in a different spot.
 
--
+# 
 
 To run the programm don't forget to include the words.txt file which containg (for now) words of 4 and 5 letters long, and then run ```python3 wordle.py```
 
