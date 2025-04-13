@@ -24,6 +24,18 @@ The programm supports the following features:
 
 --- 
 
+To run the programm simply execute:
+
+```
+gcc bank.c
+```
+and then
+```
+./a.out
+```
+
+--
+
 Running demonstration:
 
 ```
