@@ -1,3 +1,3 @@
 # Procedural-programming
 
-## Bar - ilan projects with procedural programming languages, **C** and **pyhton**.
+## Projects with procedural programming languages, **C** and **pyhton**.
